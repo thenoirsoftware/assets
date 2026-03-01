@@ -41,3 +41,11 @@ assets for nfcsosat
 | The Mission | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/The%20Mission.mp3` |
 | Us | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/Us.mp3` |
 | Way Out | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/Way%20Out.mp3` |
+
+## 3D Models
+
+| Model | jsDelivr CDN |
+|-------|-------------- |
+| NFCArenaOneFR | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/NFCArenaOne.FRglb.glb` |
+| Dominus (Rocket League Car) | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/dominus_-_rocket_league_car.glb` |
+| Fennec (Rocket League Car) | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/fennec_-_rocket_league_car.glb` |
