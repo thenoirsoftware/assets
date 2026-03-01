@@ -16,3 +16,9 @@ assets for nfcsosat
 - [8064LOGINUSERFIELD](models/assets/8064LOGINUSERFIELD.svg)
 - [8064NEXTBUTTON](models/assets/8064NEXTBUTTON.svg)
 - [8064PHOTOFIELD](models/assets/8064PHOTOFIELD.svg)
+
+## Fonts
+
+| Font | File | jsDelivr CDN |
+|------|------|--------------|
+| SF Pro Display Semibold | [SF-Pro-Display-Semibold.otf](models/fonts/SF-Pro-Display-Semibold.otf) | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/fonts/SF-Pro-Display-Semibold.otf` |
