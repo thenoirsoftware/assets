@@ -46,6 +46,7 @@ assets for nfcsosat
 
 | Model | jsDelivr CDN |
 |-------|-------------- |
+| OneArena | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@c9b183310e8705e71e5c0545e8931895a07d82c7/models/OneArena.glb` |
 | NFCLounge | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@719e4468f4b24fa5786ce372a28da01e1d241ff0/models/NFCLounge.glb` |
 | Dominus (Rocket League Car) | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/dominus_-_rocket_league_car.glb` |
 | Fennec (Rocket League Car) | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/fennec_-_rocket_league_car.glb` |
