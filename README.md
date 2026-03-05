@@ -1,3 +1,11 @@
+<div align="center" style="background-color:#000000;padding:32px 20px 20px;border-radius:16px;">
+
+<img src="SeasonOne/Assets/VaultTitle.png" alt="Noir FC Vault" width="100%"/>
+
+</div>
+
+<div style="background-color:#000000;color:#ffffff;padding:20px;border-radius:0 0 16px 16px;">
+
 # assets
 assets for nfcsosat
 
@@ -44,9 +52,14 @@ assets for nfcsosat
 
 ## 3D Models
 
-| Model | jsDelivr CDN |
-|-------|-------------- |
-| OneArena | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@c9b183310e8705e71e5c0545e8931895a07d82c7/models/OneArena.glb` |
-| NFCLounge | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@719e4468f4b24fa5786ce372a28da01e1d241ff0/models/NFCLounge.glb` |
-| Dominus (Rocket League Car) | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/dominus_-_rocket_league_car.glb` |
-| Fennec (Rocket League Car) | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/fennec_-_rocket_league_car.glb` |
+| Model | Size | jsDelivr CDN |
+|-------|------|--------------|
+| NFCLounge | 2.3 MB | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@67a72dd7298484a83d6837b3c7c75e8b8ead77c7/SeasonOne/Models/NFCLounge.glb` |
+| NFCOneStadium | 3.8 MB | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@67a72dd7298484a83d6837b3c7c75e8b8ead77c7/SeasonOne/Models/NFCOneStadium.glb` |
+| NOIRGolf | 3.7 MB | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@2f0b9022a0b8a74bb3d014975d50d2608e885c5a/SeasonOne/Models/NOIRGolf.glb` |
+| NOIRMBGClass | 7.6 MB | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@2f0b9022a0b8a74bb3d014975d50d2608e885c5a/SeasonOne/Models/NOIRMBGClass.glb` |
+| NOIRMcLaren | 1.3 MB | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@67a72dd7298484a83d6837b3c7c75e8b8ead77c7/SeasonOne/Models/NOIRMcLaren.glb` |
+| NOIRPorsche | 4.1 MB | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@67a72dd7298484a83d6837b3c7c75e8b8ead77c7/SeasonOne/Models/NOIRPorsche.glb` |
+| NOIRT3 | 19 MB | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@2f0b9022a0b8a74bb3d014975d50d2608e885c5a/SeasonOne/Models/NOIRT3.glb` |
+
+</div>
