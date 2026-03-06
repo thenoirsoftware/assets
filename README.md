@@ -29,37 +29,37 @@ assets for nfcsosat
 
 | Font | File | jsDelivr CDN |
 |------|------|--------------|
-| SF Pro Display Semibold | [SF-Pro-Display-Semibold.otf](models/fonts/SF-Pro-Display-Semibold.otf) | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/fonts/SF-Pro-Display-Semibold.otf` |
+| SF Pro Display Semibold | [SF-Pro-Display-Semibold.otf](models/fonts/SF-Pro-Display-Semibold.otf) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@main/models/fonts/SF-Pro-Display-Semibold.otf` |
 
 ## Music
 
 | Track | jsDelivr CDN |
 |-------|-------------- |
-| A Moment Of Mystery (feat. Toro y Moi) | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/A%20Moment%20Of%20Mystery%20(feat.%20Toro%20y%20Moi).mp3` |
-| Brass Necklace | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/Brass%20Necklace.mp3` |
-| Can't Stop (feat. Little Dragon) | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/Can't%20Stop%20(feat.%20Little%20Dragon).mp3` |
-| Different Masks For Different Days | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/Different%20Masks%20For%20Different%20Days.mp3` |
-| Does It Exist | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/Does%20It%20Exist.mp3` |
-| Greener | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/Greener.mp3` |
-| IHM | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/IHM.mp3` |
-| Let's Live | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/Let's%20Live.mp3` |
-| New Life | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/New%20Life.mp3` |
-| Once Again I Close My Eyes | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/Once%20Again%20I%20Close%20My%20Eyes.mp3` |
-| Stay A Child | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/Stay%20A%20Child.mp3` |
-| The Mission | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/The%20Mission.mp3` |
-| Us | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/Us.mp3` |
-| Way Out | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@main/models/assets/music/Way%20Out.mp3` |
+| A Moment Of Mystery (feat. Toro y Moi) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@main/models/assets/music/A%20Moment%20Of%20Mystery%20(feat.%20Toro%20y%20Moi).mp3` |
+| Brass Necklace | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@main/models/assets/music/Brass%20Necklace.mp3` |
+| Can't Stop (feat. Little Dragon) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@main/models/assets/music/Can't%20Stop%20(feat.%20Little%20Dragon).mp3` |
+| Different Masks For Different Days | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@main/models/assets/music/Different%20Masks%20For%20Different%20Days.mp3` |
+| Does It Exist | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@main/models/assets/music/Does%20It%20Exist.mp3` |
+| Greener | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@main/models/assets/music/Greener.mp3` |
+| IHM | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@main/models/assets/music/IHM.mp3` |
+| Let's Live | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@main/models/assets/music/Let's%20Live.mp3` |
+| New Life | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@main/models/assets/music/New%20Life.mp3` |
+| Once Again I Close My Eyes | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@main/models/assets/music/Once%20Again%20I%20Close%20My%20Eyes.mp3` |
+| Stay A Child | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@main/models/assets/music/Stay%20A%20Child.mp3` |
+| The Mission | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@main/models/assets/music/The%20Mission.mp3` |
+| Us | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@main/models/assets/music/Us.mp3` |
+| Way Out | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@main/models/assets/music/Way%20Out.mp3` |
 
 ## 3D Models
 
 | Model | Size | jsDelivr CDN |
 |-------|------|--------------|
-| NFCLounge | 2.3 MB | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@67a72dd7298484a83d6837b3c7c75e8b8ead77c7/SeasonOne/Models/NFCLounge.glb` |
-| NFCOneStadium | 3.8 MB | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@67a72dd7298484a83d6837b3c7c75e8b8ead77c7/SeasonOne/Models/NFCOneStadium.glb` |
-| NOIRGolf | 3.7 MB | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@2f0b9022a0b8a74bb3d014975d50d2608e885c5a/SeasonOne/Models/NOIRGolf.glb` |
-| NOIRMBGClass | 7.6 MB | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@2f0b9022a0b8a74bb3d014975d50d2608e885c5a/SeasonOne/Models/NOIRMBGClass.glb` |
-| NOIRMcLaren | 1.3 MB | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@67a72dd7298484a83d6837b3c7c75e8b8ead77c7/SeasonOne/Models/NOIRMcLaren.glb` |
-| NOIRPorsche | 4.1 MB | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@67a72dd7298484a83d6837b3c7c75e8b8ead77c7/SeasonOne/Models/NOIRPorsche.glb` |
-| NOIRT3 | 19 MB | `https://cdn.jsdelivr.net/gh/bosasoftware/assets@2f0b9022a0b8a74bb3d014975d50d2608e885c5a/SeasonOne/Models/NOIRT3.glb` |
+| NFCLounge | 2.3 MB | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@67a72dd7298484a83d6837b3c7c75e8b8ead77c7/SeasonOne/Models/NFCLounge.glb` |
+| NFCOneStadium | 3.8 MB | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@67a72dd7298484a83d6837b3c7c75e8b8ead77c7/SeasonOne/Models/NFCOneStadium.glb` |
+| NOIRGolf | 3.7 MB | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@2f0b9022a0b8a74bb3d014975d50d2608e885c5a/SeasonOne/Models/NOIRGolf.glb` |
+| NOIRMBGClass | 7.6 MB | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@2f0b9022a0b8a74bb3d014975d50d2608e885c5a/SeasonOne/Models/NOIRMBGClass.glb` |
+| NOIRMcLaren | 1.3 MB | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@67a72dd7298484a83d6837b3c7c75e8b8ead77c7/SeasonOne/Models/NOIRMcLaren.glb` |
+| NOIRPorsche | 4.1 MB | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@67a72dd7298484a83d6837b3c7c75e8b8ead77c7/SeasonOne/Models/NOIRPorsche.glb` |
+| NOIRT3 | 19 MB | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@2f0b9022a0b8a74bb3d014975d50d2608e885c5a/SeasonOne/Models/NOIRT3.glb` |
 
 </div>
