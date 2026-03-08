@@ -55,7 +55,7 @@ assets for nfcsosat
 | Us | Music (MP3) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/Music/Us.mp3` |
 | Startup | SFX (MP3) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/SFX/Startup.mp3` |
 | NFCLounge | 3D Model (GLB) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/Models/NFCLounge.glb` |
-| NFCOneStadium | 3D Model (GLB) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@67342e622ff7e9bfa631776fd78afdd216c951a9/SeasonOne/Models/NFCOneStadium.glb` |
+| NFCOneStadium | 3D Model (GLB) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@e9c10432af2ee139fb5f0986d3f9799a17619514/SeasonOne/Models/NFCOneStadium.glb` |
 | NOIRGolf | 3D Model (GLB) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/Models/NOIRGolf.glb` |
 | NOIRMBGClass | 3D Model (GLB) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/Models/NOIRMBGClass.glb` |
 | NOIRMcLaren | 3D Model (GLB) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/Models/NOIRMcLaren.glb` |
