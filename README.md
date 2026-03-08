@@ -18,6 +18,11 @@ assets for nfcsosat
 | ModesIdle | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@8f20f875b308f2628528d3e013003a07969ec4c5/SeasonOne/Assets/ModesIdle.svg` |
 | MusicIdle | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@8f20f875b308f2628528d3e013003a07969ec4c5/SeasonOne/Assets/MusicIdle.svg` |
 | SettingsIdle | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@8f20f875b308f2628528d3e013003a07969ec4c5/SeasonOne/Assets/SettingsIdle.svg` |
+| FriendsSelect | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@6a2bbec63d316bb75da14fe642ca3b6655f1b9e8/SeasonOne/Assets/FriendsSelect.svg` |
+| HomeIdle | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@6a2bbec63d316bb75da14fe642ca3b6655f1b9e8/SeasonOne/Assets/HomeIdle.svg` |
+| ModesSelect | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@6a2bbec63d316bb75da14fe642ca3b6655f1b9e8/SeasonOne/Assets/ModesSelect.svg` |
+| MusicSelect | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@6a2bbec63d316bb75da14fe642ca3b6655f1b9e8/SeasonOne/Assets/MusicSelect.svg` |
+| SettingsSelect | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@6a2bbec63d316bb75da14fe642ca3b6655f1b9e8/SeasonOne/Assets/SettingsSelect.svg` |
 | GeneralDoneButton | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/Assets/GeneralDoneButton.svg` |
 | GeneralGetStartedButton | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/Assets/GeneralGetStartedButton.svg` |
 | GeneralNextButton | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/Assets/GeneralNextButton.svg` |
