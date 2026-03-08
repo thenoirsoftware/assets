@@ -29,6 +29,7 @@ assets for nfcsosat
 | VaultTitle | Banner (PNG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/Assets/VaultTitle.png` |
 | NOIR | Font (OTF) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/Fonts/NOIR.otf` |
 | NOIRDisplay | Font (OTF) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@b32e55d1b614f3ce4d39e76b23ea5b2b1bf63ad3/SeasonOne/Fonts/NOIRDisplay.otf` |
+| NOIRPixel | Font (OTF) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@c523bcf5626ea83ee87e8a4ff9bd2fddd38b5b57/SeasonOne/Fonts/NOIRPixel.otf` |
 | Direction | Music (MP3) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/Music/Direction.mp3` |
 | Escape | Music (MP3) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/Music/Escape.mp3` |
 | Exist | Music (MP3) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/Music/Exist.mp3` |
