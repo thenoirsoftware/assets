@@ -13,6 +13,11 @@ assets for nfcsosat
 
 | Asset | Type | jsDelivr CDN |
 |-------|------|--------------|
+| FriendsIdle | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@8f20f875b308f2628528d3e013003a07969ec4c5/SeasonOne/Assets/FriendsIdle.svg` |
+| HomeSelect | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@8f20f875b308f2628528d3e013003a07969ec4c5/SeasonOne/Assets/HomeSelect.svg` |
+| ModesIdle | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@8f20f875b308f2628528d3e013003a07969ec4c5/SeasonOne/Assets/ModesIdle.svg` |
+| MusicIdle | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@8f20f875b308f2628528d3e013003a07969ec4c5/SeasonOne/Assets/MusicIdle.svg` |
+| SettingsIdle | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@8f20f875b308f2628528d3e013003a07969ec4c5/SeasonOne/Assets/SettingsIdle.svg` |
 | GeneralDoneButton | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/Assets/GeneralDoneButton.svg` |
 | GeneralGetStartedButton | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/Assets/GeneralGetStartedButton.svg` |
 | GeneralNextButton | UI Asset (SVG) | `https://cdn.jsdelivr.net/gh/thenoirsoftware/assets@069eea1f7d969960d7ccf737c2c119f54fe19464/SeasonOne/Assets/GeneralNextButton.svg` |
